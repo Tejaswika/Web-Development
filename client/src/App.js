@@ -1,11 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import "./Mission.css";
+import Mission from "./component/Mission&Vision/Mission";
 
 function App() {
   return (
     <div className="App">
-      
+      <Mission></Mission>
     </div>
   );
 }
