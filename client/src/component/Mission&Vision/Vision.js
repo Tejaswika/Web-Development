@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-class Mission extends Component {
+class Vision extends Component {
   render() {
     
   };}
-  export default Mission;
+  export default Vision;
